@@ -1,4 +1,4 @@
-# 🍓 Real-Time Strawberry Detection & Ripeness Classification
+# 🍓Strawberry Detection & Ripeness Classification
 
 An edge-optimized computer vision pipeline developed in Python with OpenCV for autonomous agricultural harvesting robots. The system suppresses foliage and greenhouse background noise using vegetation-difference indexing, localizes individual fruit centroids for robotic end-effector targeting, and classifies maturity into **Ripe**, **Semi-Ripe**, and **Raw (Unripe)**.
 
